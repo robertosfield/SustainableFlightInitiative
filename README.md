@@ -26,5 +26,5 @@ This is the beginning of a collection of projects that strive to create practica
     * Hang gliders
     * Sailplanes
     * Light electric aircraft, eVTOL, eSTOL and conventional powered aircraft
-    * Autonmous Tug and in flight charging aircraft
+    * Autonmous Tug and in-flight charging aircraft
  * Sustainable flight competitions where all ground transport through to winch, tug and aircraft are powered in a sustainable way, with competition results geared towards factors that drive utility and efficiency improvements.
