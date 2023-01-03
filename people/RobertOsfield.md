@@ -26,7 +26,16 @@ Work with a wide range of organizations, from small businesses through to automo
 2000 - Present: OpenScenenGraph Project Lead, OpenGL, C++, CMake:
 http://www.openscenegraph.org
 
-
 2018 - Present : VulkanSceneGraph Project Lead, Vulkan, C++17, CMake: http://www.vulkanscenegraph.org
 
 ## Interests
+
+1986-2003: Hang Glider Pilot with ~800 hrs airtime. Wrote extensively on hang glider theory and stability in 90's on hang glider mailing list and published technical articles in SkyWings. In 2000's Family and business commitments became such that I didn't have the time to continue. Now that kids are grown up looking to get back in the air, with soaring and powered flight.
+
+2010-2019 Ultramarathoner : completed a range of Scottish ultras, include 5 finishes of the 95 mile West Highland Way Race. Unfortunately injury stopped play.
+
+1982 - Present : Aircraft design, as kid was inspired by 80's designs such as Hiway Alien and Explorer and began designing and building RC models. Once a Hang Glider pilot experimented with modifications to gliders through to design and build of radical wing warping semi-rigid hang glider. As time has gone on have become interested in electric powered light aircraft as well.
+
+2000 - Present : Concerns over pollution and climate change caused by modern way of life have become an increasing focus. Energy efficiency in the household and business is a constant theme. In 2019 began analysing UK car registrations to test Tony Seba's projection that we'd see s-curve adoption of battery electric vehicles.
+
+2023 - Present : Started ***Sustainable Flight Initiative*** to help foster advances in aircraft, from soaring to powered, that have low carbon footprint and low noise and air pollution.
