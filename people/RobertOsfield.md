@@ -13,7 +13,7 @@ Awards:
 Modified personal LaMoutte Azure hang glider to have 95% double surface and wing warping.
 Designed and built high aspect ratio wing warping semi-rigid hang glider, used 3rd year thesis project to aid with design.
 
-1991-1996 : Airwave Glders, Ise of Wight. University holiday job first on production line, then working with design team.
+1991-1996 : Airwave Glders, Isle of Wight. University holiday job first on production line, then working with design team.
 After leaving University worked for 2 months with the design hang glider team as designer/test pilot and later part-time consulting
 
 1992-2000 : Midland Valley Exploration, Glasow. Software Engineer and later Software Dev Manager, 3D Strucutral Geological Software Development.
