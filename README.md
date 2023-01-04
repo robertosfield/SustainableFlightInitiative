@@ -12,6 +12,9 @@ This initiative is intended to be community effort, where individuals, organizat
 
 * [Robert Osfield](people/RobertOsfield.md) - founder
 
+ ## Resources
+ * [eVTOL - Electric Vertical Take Off and Landing](eVTOL/eVTOL.md)
+
 ## High level Plan
 * Create repository to hold information, data and software and facilitate discussions
 * Reach out to pulblic and businesses to collaborate on making flight sustainable
@@ -34,3 +37,4 @@ This initiative is intended to be community effort, where individuals, organizat
     * Light electric aircraft, eVTOL, eSTOL and conventional powered aircraft
     * Autonmous Tug and in-flight charging aircraft
  * Sustainable flight competitions where all ground transport through to winch, tug and aircraft are powered in a sustainable way, with competition results geared towards factors that drive utility and efficiency improvements.
+
