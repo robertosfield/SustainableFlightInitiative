@@ -6,6 +6,12 @@ The world has to transition to a sustainable way of life or we will exhaust our 
 
 This is the beginning of a collection of projects that strive to create practical solutions for making all forms of aviation sustainable, taking the initiative from the ground up, from indiviuals and groups that freely share experitise, designs, methods, from components through to complete software and aircraft solutions. Taking inspiration from the success of open source/free software and the communities that develop them, this initiative aims to open up and advance systainable aviation for the individual hobbyist through to corporations that build and operate commercial transport and passenger aircraft.
 
+## People and Organizations
+
+This initiative is intended to be community effort, where individuals, organizations and companies.  Contributors so far:
+
+* [Robert Osfield](people/RobertOsfield.md) - founder
+
 ## High level Plan
 * Create repository to hold information, data and software and facilitate discussions
 * Reach out to pulblic and businesses to collaborate on making flight sustainable
