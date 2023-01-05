@@ -12,8 +12,14 @@ This initiative is intended to be community effort, where individuals, organizat
 
 * [Robert Osfield](people/RobertOsfield.md) - founder
 
- ## Resources
- * [eVTOL - Electric Vertical Take Off and Landing](eVTOL/eVTOL.md)
+## Resources
+* [Hang Glider](hang_glider/hang_glider.md)
+* [Sailplanes](sailplane/sailplane.md)
+* [Light Aircraft](light_aircraft/light_aircraft.md)
+* [Solar Aircraft](solar/solar.md)
+* [eVTOL - Electric Vertical Take Off and Landing](VTOL/eVTOL.md)
+* [Commercial Aircraft](commercial/commericial.md)
+
 
 ## High level Plan
 * Create repository to hold information, data and software and facilitate discussions
