@@ -12,6 +12,10 @@ This initiative is intended to be community effort, where individuals, organizat
 
 * [Robert Osfield](people/RobertOsfield.md) - founder
 
+## Other Organizations/Initiatives in this area
+
+* [Sustainable Skies](https://sustainableskies.org/)
+
 ## Resources
 * [Hang Glider](hang_glider/hang_glider.md)
 * [Sailplanes](sailplane/sailplane.md)
